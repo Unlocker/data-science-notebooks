@@ -1,0 +1,11 @@
+name: data-science-notebooks
+
+dependencies:
+  - python=2.7
+  - numpy
+  - notebook
+  - matplotlib
+  - pandas
+  - seaborn
+  - folium
+  - plotly
