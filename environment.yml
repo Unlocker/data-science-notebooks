@@ -7,5 +7,6 @@ dependencies:
   - matplotlib
   - pandas
   - seaborn
-  - folium
-  - plotly
+  - pip:
+    - folium
+    - plotly
